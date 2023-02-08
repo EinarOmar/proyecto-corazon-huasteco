@@ -1,0 +1,26 @@
+/*FOOTER*/
+.contenedor{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.site-footer{
+    border-top: 1px solid #e1e1e1;
+    margin-top: 5rem;
+    padding-top: 5rem;
+}
+.site-footer h3{
+    margin-bottom: .5rem;
+}
+.grid-footer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+.footer-menu a{
+    display: block;
+}
+.copyright{
+    text-align: center;
+    margin-top: 5rem;
+}
