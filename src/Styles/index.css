@@ -20,9 +20,10 @@ body{
 }
 
 .page{
-  width: 99.9%;
+  width: 100%;
   margin: 0px auto;
   background: #D9CAAD;
   border: 2px solid #ddd;
   min-height: auto
 }
+/* einar omar /*
